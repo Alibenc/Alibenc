@@ -6,6 +6,8 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+---
+
 Frontend Developer focused on React, TypeScript and software engineering.
 
 I enjoy building complex web applications, designing maintainable architectures
