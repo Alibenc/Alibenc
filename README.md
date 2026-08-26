@@ -1,4 +1,4 @@
-# Hey, I'm Ivan 👋
+# Hello, I'm Ivan 👋
 
 Frontend Developer focused on React, TypeScript and software engineering.
 
