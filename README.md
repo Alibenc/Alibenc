@@ -1,4 +1,10 @@
-# Hello, I'm Ivan 👋
+# Hello, I'm Ivan 
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 Frontend Developer focused on React, TypeScript and software engineering.
 
@@ -8,7 +14,7 @@ and figuring out how things work under the hood.
 Currently, I'm moving deeper into engineering: open-source contributions,
 developer tooling and Node.js / backend development.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
