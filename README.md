@@ -10,17 +10,12 @@ developer tooling and Node.js / backend development.
 
 ## 🛠 Tech Stack
 
-**Frontend**
-React · TypeScript · JavaScript · Redux Toolkit · TanStack Query
-
-**Styling & UI**
-SCSS · MUI · Ant Design
-
-**Tooling**
-Webpack · Vite · Babel · Git · GitHub Actions
-
-**Currently exploring**
-Node.js · Express · NestJS · PostgreSQL · Open Source
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `React` `TypeScript` `JavaScript` `Redux Toolkit` `TanStack Query` |
+| **Styling & UI** | `SCSS` `MUI` `Ant Design` |
+| **Tooling** | `Webpack` `Vite` `Babel` `Git` `GitHub Actions` |
+| **Currently exploring** | `Node.js` `Express` `NestJS` `PostgreSQL` `Open Source` |
 
 ## 🚀 What I'm interested in
 
