@@ -41,7 +41,7 @@ rather than staying within a familiar stack.
 
 ## 📫 Contact
 
-[Telegram] · [LinkedIn] · [Email]
+[Telegram](https://t.me/KrapivinDevWorks) · [Email](mailto:ivankra31@gmail.com)
 
 <!--
 **Alibenc/Alibenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
